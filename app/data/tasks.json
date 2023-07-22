@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Development",
+    "lockedBudget": 6455000,
+    "actualCost": 6435000,
+    "variance": 20000
+  },
+  {
+    "title": "H O D's",
+    "lockedBudget": 22185000,
+    "actualCost": 19794708,
+    "variance": 2390291.667
+  },
+  {
+    "title": "Miscellaneous",
+    "lockedBudget": 2250000,
+    "actualCost": 2661518,
+    "variance": -411518
+  },
+  {
+    "title": "Pre Production",
+    "lockedBudget": 1575000,
+    "actualCost": 1111927,
+    "variance": 463073
+  },
+  {
+    "title": "roduction Dept",
+    "lockedBudget": 3508000,
+    "actualCost": 3222616.93763441,
+    "variance": 285383.0624
+  },
+  {
+    "title": "Direction Dept",
+    "lockedBudget": 3020000,
+    "actualCost": 3022081.98215054,
+    "variance": -2081.982151
+  },
+  {
+    "title": "Camera Dept",
+    "lockedBudget": 15265000,
+    "actualCost": 14894360.504,
+    "variance": 370639.496
+  },
+  {
+    "title": "Sound Dept",
+    "lockedBudget": 1840000,
+    "actualCost": 1615406,
+    "variance": 224594
+  },
+  {
+    "title": "Costume Stylist & Wardrobes, Jewellery & Accessories",
+    "lockedBudget": 3318100,
+    "actualCost": 2879066.48096774,
+    "variance": 439033.519
+  },
+  {
+    "title": "Production / Raw Stock Expenses",
+    "lockedBudget": 4517900,
+    "actualCost": 5138786,
+    "variance": -620886
+  },
+  {
+    "title": "Art Department",
+    "lockedBudget": 11649900,
+    "actualCost": 13736129.8027957,
+    "variance": -2086229.803
+  },
+  {
+    "title": "Studio / Locations",
+    "lockedBudget": 12811000,
+    "actualCost": 16943952,
+    "variance": -4132952
+  },
+  {
+    "title": "Food & Beverages",
+    "lockedBudget": 4185000,
+    "actualCost": 3991254,
+    "variance": 193746
+  },
+  {
+    "title": "Conveyance & Transport",
+    "lockedBudget": 5281000,
+    "actualCost": 6197736,
+    "variance": -916736
+  },
+  {
+    "title": "Artists",
+    "lockedBudget": 20140000,
+    "actualCost": 12079299.4652406,
+    "variance": 8060700.535
+  },
+  {
+    "title": "Juniors / Feature Cast",
+    "lockedBudget": 3309000,
+    "actualCost": 4243400,
+    "variance": -934400
+  },
+  {
+    "title": "Artist Staff",
+    "lockedBudget": 2358000,
+    "actualCost": 1064409,
+    "variance": 1293591
+  },
+  {
+    "title": "Edit",
+    "lockedBudget": 9498000,
+    "actualCost": 6889273.84,
+    "variance": 2608726.16
+  },
+  {
+    "title": "Sound",
+    "lockedBudget": 1280000,
+    "actualCost": 830420.622,
+    "variance": 449579.378
+  },
+  {
+    "title": "Music",
+    "lockedBudget": 1040000,
+    "actualCost": 2325000.619,
+    "variance": -1285000.619
+  },
+  {
+    "title": "ArtiPost F & B",
+    "lockedBudget": 125000,
+    "actualCost": 174272.374,
+    "variance": -49272.374
+  },
+  {
+    "title": "Stunts / Action Team",
+    "lockedBudget": 5327125,
+    "actualCost": 4635697,
+    "variance": 691428
+  },
+  {
+    "title": "Choreographer & Dancers",
+    "lockedBudget": 125000,
+    "actualCost": 210282,
+    "variance": -85282
+  },
+  {
+    "title": "Animals and Livestocks",
+    "lockedBudget": 60000,
+    "actualCost": 98635,
+    "variance": -38635
+  },
+  {
+    "title": "Visual Effects Shoot",
+    "lockedBudget": 400000,
+    "actualCost": 0,
+    "variance": 399999.874
+  },
+  {
+    "title": "Prosthetic Make Up",
+    "lockedBudget": 60000,
+    "actualCost": 0,
+    "variance": 60000
+  },
+  {
+    "title": "Travel",
+    "lockedBudget": 5031000,
+    "actualCost": 6805802,
+    "variance": -1774802
+  },
+  {
+    "title": "Food",
+    "lockedBudget": 4708250,
+    "actualCost": 3393130,
+    "variance": 1315120
+  },
+  {
+    "title": "Accomodation",
+    "lockedBudget": 11555000,
+    "actualCost": 9585075.78571429,
+    "variance": 1969924.214
+  },
+  {
+    "title": "Transport",
+    "lockedBudget": 5941500,
+    "actualCost": 8356896,
+    "variance": -2415396
+  },
+  {
+    "title": "Additional Outdoor Crew, Technicians & Allowances & Miscellaneous Exps)",
+    "lockedBudget": 2900000,
+    "actualCost": 2345181.77966102,
+    "variance": 554818.2203
+  },
+  {
+    "title": "T B L (Reccee - HOD's/Sr Crew)",
+    "lockedBudget": 1732200,
+    "actualCost": 330581,
+    "variance": 1401619
+  }
+]
